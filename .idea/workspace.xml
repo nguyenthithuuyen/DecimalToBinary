@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="342c219b-5350-4fc7-aa59-9989b8182f60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jXdTZsrBh66dr2DwJ9UT7IskK1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="342c219b-5350-4fc7-aa59-9989b8182f60" name="Default Changelist" comment="" />
+      <created>1603954379085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603954379085</updated>
+      <workItem from="1603954380175" duration="1826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1087" y="235" width="732" height="644" key="#Inspections" timestamp="1603955092768">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1087" y="235" width="732" height="644" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1603955092768" />
+    <state x="1252" y="273" width="401" height="568" key="NewPhpClassDialog" timestamp="1603954526411">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1252" y="273" width="401" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603954526411" />
+    <state x="1253" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1603954387904">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1253" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603954387904" />
+    <state x="1290" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog" timestamp="1603955868960">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1290" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603955868960" />
+  </component>
+</project>
